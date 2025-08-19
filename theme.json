@@ -450,6 +450,9 @@
     "lintstaged": {
       "iconPath": "./icons/lintstaged.svg"
     },
+    "liquid":{
+      "iconPath":"./icons/liquid.svg"
+    },
     "log": {
       "iconPath": "./icons/log.svg"
     },
@@ -1982,6 +1985,7 @@
     "julia": "julia",
     "juliamarkdown": "julia",
     "jupyter": "jupyter",
+    "liquid":"liquid",
     "log": "log",
     "lua": "lua",
     "makefile": "make",
